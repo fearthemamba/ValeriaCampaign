@@ -1,0 +1,1 @@
+Read a book in infernal giving him many subtle images leading him towards a cult that may or may not be summoning demon lords throughout the continent. Also can cast Fire ball at the cost of 20hp.

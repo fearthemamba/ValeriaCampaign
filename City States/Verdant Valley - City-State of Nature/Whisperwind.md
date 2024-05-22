@@ -1,0 +1,1 @@
+Whisperwind (North, 2 days' walk): Whisperwind is a peaceful town enveloped by a dense and ancient forest. The town exudes a sense of harmony with nature, with buildings made from natural materials and rooftops adorned with vibrant foliage. The surrounding land is teeming with wildlife, sparkling creeks, and hidden groves where druids commune with the natural world.

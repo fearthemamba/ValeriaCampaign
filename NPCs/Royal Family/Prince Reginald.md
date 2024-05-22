@@ -1,0 +1,3 @@
+ [[Prince Reginald]]: Prince Reginald is a charismatic and adventurous spirit, known for his love of exploration and discovery, often venturing into uncharted lands.
+ Is a Bard who roams the lands sowing chaos wherever he goes but not himself he creates seeds and leaves before they can sprout. A half-elf and a product of an affair the king had with the current queen. 
+ Warlock pact with [[Lilithra, the Temptress of Shadows]]

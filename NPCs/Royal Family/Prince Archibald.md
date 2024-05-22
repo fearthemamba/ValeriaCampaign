@@ -1,0 +1,1 @@
+[[Prince Archibald]]: Prince Archibald is a master strategist and tactician, overseeing the kingdom's defenses and maintaining its military readiness. A human and the third son of the King and the late queen.

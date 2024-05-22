@@ -1,0 +1,1 @@
+The wise and just ruler of Avaloria, King Alaric III is known for his diplomatic skills and commitment to the well-being of his people.

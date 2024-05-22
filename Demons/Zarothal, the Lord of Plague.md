@@ -1,0 +1,2 @@
+- Domain: Disease, Pestilence, Decay
+- Description: Zarothal is a grotesque entity, covered in sickly pustules and surrounded by an aura of decay. He delights in spreading diseases and fostering epidemics, relishing the suffering and chaos they bring.

@@ -1,0 +1,1 @@
+Ironhammer (Northeast, 1.5 days' walk): Ironhammer is a stoic and industrious town known for its exceptional craftsmanship and mining operations. The town is nestled within the heart of the mountains, and the sound of hammering and clinking of pickaxes echoes through the air. The surrounding land is rugged, with deep mineshafts, cascading waterfalls, and hidden caves.

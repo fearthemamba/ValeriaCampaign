@@ -1,0 +1,1 @@
+Aquanis governs the vast oceans and the deep mysteries they hold. He is revered by sailors, scholars, and those who seek insight into the future through divination.

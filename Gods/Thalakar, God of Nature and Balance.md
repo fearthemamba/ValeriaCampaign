@@ -1,0 +1,2 @@
+
+Thalakar is the guardian of the natural world, representing the delicate equilibrium between life and death, growth and decay. His followers strive to protect the environment and maintain the harmony of the ecosystem.

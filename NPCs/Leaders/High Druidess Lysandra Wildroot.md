@@ -1,0 +1,1 @@
+Ritual leader of [[Verdant Valley]].

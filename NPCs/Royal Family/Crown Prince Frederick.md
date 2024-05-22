@@ -1,0 +1,3 @@
+The heir to the throne, Crown Prince Frederick is a charismatic and ambitious leader, eager to prove himself and continue his family's legacy.
+
+The crown prince sees that he is next in line and is very eager to become king while not being very bright himself his sibling seems to reinforce him and help him along making him much better looking than he actually. Advised by [[Princess Adelaide]] and his Brother [[Prince Archibald]]. 

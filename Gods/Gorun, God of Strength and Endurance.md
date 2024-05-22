@@ -1,0 +1,1 @@
+Gorun embodies physical might, resilience, and unwavering determination. His followers include athletes, warriors, and those who overcome challenges through sheer tenacity.

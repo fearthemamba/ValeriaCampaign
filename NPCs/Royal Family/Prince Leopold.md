@@ -1,0 +1,1 @@
+ [[Prince Leopold]]: Prince Leopold is a skilled hunter and tracker, deeply connected to nature and known for his expertise in traversing the kingdom's wilderness. Currently in the forest new [[Oakwood]] hunting down dangers to the public. He is a half-elf procreated by his father in a affair with his now wife.

@@ -1,0 +1,2 @@
+- Domain: Void, Consumption, Annihilation
+- Description: Voragor is an entity of darkness and emptiness, with a maw that devours entire dimensions. He seeks to consume the fabric of reality itself, leaving behind only void and despair.

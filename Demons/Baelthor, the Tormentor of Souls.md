@@ -1,0 +1,2 @@
+- Domain: Torture, Pain, Damnation
+- Description: Baelthor is a sadistic demon, with a barbed whip and a wicked grin. He revels in the torment of mortal souls, capturing them in his nightmarish realm where their agony is his pleasure.

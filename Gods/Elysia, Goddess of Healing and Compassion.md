@@ -1,0 +1,1 @@
+Elysia is a nurturing deity, embodying the power of healing and the importance of empathy. Her followers provide aid to the sick, injured, and downtrodden.

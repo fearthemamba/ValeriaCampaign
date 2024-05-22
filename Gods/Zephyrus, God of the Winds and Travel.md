@@ -1,0 +1,2 @@
+
+Zephyrus is the lord of the winds and the patron of travelers and adventurers. His whimsical nature mirrors the unpredictability of the winds, and his followers often seek his blessings before embarking on journeys.

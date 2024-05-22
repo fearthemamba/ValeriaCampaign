@@ -1,0 +1,1 @@
+Thornwood (South, 1 day's walk): Thornwood is a small town nestled within a dense thicket of thorny bushes and twisted trees. The town has an aura of mystery and danger, as it lies on the edge of an enchanted forest known for its bewitching beauty and treacherous magical creatures. The land is filled with dense undergrowth, eerie fog, and ancient ruins covered in ivy.

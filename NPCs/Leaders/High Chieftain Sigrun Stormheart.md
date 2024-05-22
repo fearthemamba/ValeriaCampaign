@@ -1,0 +1,1 @@
+Leader of [[Stormholm]] in power due too a tournament of power held every 5 years.

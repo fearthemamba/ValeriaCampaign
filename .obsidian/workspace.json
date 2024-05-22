@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "0093a6d4a201d856",
+    "type": "split",
+    "children": [
+      {
+        "id": "c274d8f35b5bdb40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3fffd2cb119d2e2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "One Shot 1/Untitled.canvas",
+                "viewState": {
+                  "x": 218.76746058064737,
+                  "y": 47.33678697366696,
+                  "zoom": -0.5
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d3b2308cf61822c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f31626364f776fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a387f40faa656c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d774d2a3e1e61d9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b45448a0902a55a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8495f697ea65d5a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "af4cf339cb1cfcbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ab8fe0cfacba74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "One Shot 1/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2450c4791fb5e522",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "One Shot 1/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a78a83d388663e6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9521e10aad3eb01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "One Shot 1/Untitled.canvas"
+              }
+            }
+          },
+          {
+            "id": "a50d48b39996cecf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e23e15874bbd21d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "09a387f40faa656c",
+  "lastOpenFiles": [
+    "One Shot 1/Untitled.canvas",
+    "One Shot 1",
+    "Untitled.md",
+    "Miner Casualties.md",
+    "Avaloria.md",
+    "PCs/Expo.md",
+    "PCs/Roy Jenkins.md",
+    "PCs/Revan.md",
+    "NPCs/Rattle.md",
+    "City States/Silverpeak - City-State of Knowledge/Sagebrush.md",
+    "City States/Silverpeak - City-State of Knowledge/Silverpeak.md",
+    "City States/Silverpeak - City-State of Knowledge/Ivory Tower.md",
+    "Gods/Drakthar, God of Death and Fate.md",
+    "Random Shop Shit.md",
+    "City States/Stormholm - City-State of Warriors/Ironreach.md",
+    "City States/Stormholm - City-State of Warriors/Stormholm.md",
+    "City States/Stormholm - City-State of Warriors/Thunder's End.md",
+    "Roll Tables.md",
+    "City States/Valeria Capital City State/Adventures Guild.md",
+    "Sane_Magical_Prices.pdf",
+    "Roll table.png",
+    "City States/Valeria Capital City State/Valeria.md",
+    "City States/Stonegate - City-State of Dwarves/Stonegate.md",
+    "City States/Stonegate - City-State of Dwarves/Boulderfall.md",
+    "City States/Stonegate - City-State of Dwarves/Ironhammer.md",
+    "The Unveiling Shadows.md",
+    "Demons/Lilithra, the Temptress of Shadows.md",
+    "Demons/Baelthor, the Tormentor of Souls.md",
+    "City States/Valeria Capital City State/Riverton.md",
+    "PCs",
+    "NPCs/Leaders",
+    "Demons",
+    "Gods",
+    "NPCs/Royal Family",
+    "NPCs",
+    "City States/Silverpeak - City-State of Knowledge",
+    "City States/Verdant Valley - City-State of Nature"
+  ]
+}

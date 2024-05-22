@@ -1,0 +1,1 @@
+Ivory Tower (East, 2 days' walk): Ivory Tower is a town perched atop a tall plateau, accessible only by winding paths and steep stairs carved into the rock. The town is known for its prestigious magical academy, where aspiring wizards and sorcerers study. The land surrounding Ivory Tower is marked by sheer cliffs, breathtaking vistas, and a perpetual sense of isolation.

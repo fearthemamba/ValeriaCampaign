@@ -1,0 +1,1 @@
+Boulderfall (Southwest, 2 days' walk): Boulderfall is a town built into the side of a cliff, with sturdy stone structures blending seamlessly with the natural formations. The town is surrounded by towering cliffs, deep ravines, and winding mountain trails. The land is rich in minerals, with precious gemstones embedded within the rocky terrain.
